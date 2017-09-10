@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<?xml-stylesheet type="text/css" href="../css/hw2.css" ?>
+<!-- Clinton Andor 9/2/17 -->
+<ccsf>
+<course id="cnit32111">
+  <name>Internet &amp; Intro to HTML</name>
+  <instructor>Michael Petty</instructor>
+</course>
+<course id="cnit32123">
+  <name>XML &amp; JSON</name>
+  <instructor>Claudia Ferreira Da Silva</instructor>
+</course>
+<course id="cnit32145">
+  <name>Intermediate HTML &amp; CSS</name>
+  <instructor>Terrence Corbie</instructor>
+</course>
+<course id="cnit32167">
+  <name>Javascript</name>
+  <instructor>Stephen Ruben</instructor>
+</course>
+</ccsf>

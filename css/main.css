@@ -1,0 +1,71 @@
+@charset "utf-8";
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  font-family: "Fira Sans Two", sans-serif;
+}
+a:hover {
+  color: #000;
+}
+a {
+  color: grey;
+
+}
+h1 {
+  font-size: 72px;
+  color: #FFF;
+  letter-spacing: 8px;
+}
+.underconstruct {
+  letter-spacing: 5px;
+  text-align: center;
+}
+body {
+  background: linear-gradient(90deg, #fca9b5 0%,#c685f2 50%,#7db9e8 100%);
+
+}
+header{
+  margin-top: 25px;
+}
+.container{
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.image1{
+  width: 25%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table {
+  background-color: rgba(255,255,255,.15);
+  padding:20px;
+  border-radius: 10px;
+  width:100%;
+
+}
+
+th{
+  font-size: 18px;
+padding-bottom: 15px;
+}
+tr, td {
+  text-align: center;
+  padding: 10px;
+  font-weight: 100;
+}
+
+tr:nth-child(even) {
+    background-color: rgba(255,255,255,.15);
+
+
+}
+
+.homework {
+  width:75%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+}

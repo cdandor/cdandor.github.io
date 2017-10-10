@@ -1,0 +1,6 @@
+@charset "UTF-8";
+@namespace west "http://www.ccsf.edu/west";
+@namespace east "http://www.ccsf.edu/east";
+*| states { width: 300px; border: 2px solid red; margin: 0 auto; }
+east|name { display: block; width: 100%; background-color: skyblue; color: red; font-weight: bold; }
+west|name { display: block; width: 100%; background-color: yellow; color: blue; font-weight: bold; }

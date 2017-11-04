@@ -3,9 +3,9 @@
 <?xml-stylesheet type = "text/xsl" href = "../xsl/hw5.xsl" ?>
 
 <stock:doc
-xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
-xsi:schemaLocation = "http://www.ineasysteps.com/xsd ../xsd/hw5.xsd"
-xmlns:stock = "http://www.ineasysteps.com/xsd" >
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.ineasysteps.com/xsd ../xsd/hw5.xsd" 
+xmlns:stock="http://www.ineasysteps.com/xsd" >
 
 	<stock:item id = "Microsoft">
 		<stock:symbol>MSN</stock:symbol>

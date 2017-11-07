@@ -49,7 +49,7 @@
       </xsl:if>
       </xsl:for-each>
     </table>
-    <div>The total of stocks that cost more than $70.00 is <xsl:value-of select="count(/s:doc/s:price)"</div>
+    <div>The total of stocks that cost more than $70.00 is <xsl:value-of select="count(/s:doc/s:price)"></div>
    </body>
  </html>
 </xsl:template>

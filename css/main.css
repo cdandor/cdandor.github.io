@@ -69,3 +69,8 @@ tr:nth-child(even) {
   margin-right: auto;
   margin-top: 25px;
 }
+
+p{
+  color:white;
+  width:500px;
+}
